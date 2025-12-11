@@ -22,4 +22,4 @@ run server: `ngrok http 80`
 # Manifest
 This repository is free code, you can use it without any problem.
 
-Shoutout to @JesusChapman used his termux-ngrok repo🚀
+Shoutout to [JesusChapman](https://github.com/JesusChapman) used his termux-ngrok repo🚀
