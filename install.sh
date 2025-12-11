@@ -11,6 +11,7 @@ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.zip
 unzip ngrok-stable-linux-arm64.zip
 rm ngrok-stable-linux-arm64.zip
 rm -rf Ngrok-Acode 
+cd
 mv ngrok /usr/bin
 
 echo -e "\e[1;32mNgrok installed sucessfull!"
