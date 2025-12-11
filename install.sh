@@ -9,9 +9,9 @@ cd ..
 
 wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3.4.0-linux-arm64.zip -O ngrok.zip
 
-unzip ngrok-v3.4.0-linux-arm64.zip
-rm ngrok-v3.4.0-linux-arm64.zip
-rm -rf Ngrok-Acode 
+unzip ngrok.zip
+rm ngrok.zip
+
 cd
 mv ngrok /usr/bin
 
